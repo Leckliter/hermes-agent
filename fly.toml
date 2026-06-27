@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for hermes-leckliter on 2026-06-27T16:29:12Z
+# fly.toml app configuration file generated for hermes-agent-ffqymw on 2026-06-27T17:31:45Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hermes-leckliter'
+app = 'hermes-agent-ffqymw'
 primary_region = 'ord'
 
 [build]
